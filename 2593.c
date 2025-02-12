@@ -1,6 +1,6 @@
-//Bruna Surur Bergara, RA: 165536
-//Exercício feito para estudo
-//Exercício Beecrowd: Eachianos I feito em 09/02 para estudo
+//Nicolas Ramos da Silva 178197
+
+
 
 #include <stdio.h>
 #include <string.h>
