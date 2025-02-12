@@ -1,6 +1,3 @@
-//Bruna Surur Bergara, RA: 165536
-//Exercício "Lista de compras" dado no torneio para entrega até dia 11/11/2024
-//Entregue no dia 11/11/2024
 
 #include <stdio.h>    
 #include <stdlib.h>  
