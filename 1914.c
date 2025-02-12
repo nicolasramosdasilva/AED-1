@@ -1,6 +1,4 @@
-//Bruna Surur Bergara, RA: 165536
-//Exercício feito para estudo
-//Exercício Beecrowd: De Quem é a Vez? feito em 09/02 para estudo
+
 
 #include <stdio.h>
 
